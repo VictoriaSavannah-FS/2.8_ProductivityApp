@@ -22,4 +22,33 @@ This is cross-platform personal productivity app built with Expo that works on b
 - SecureStore: Expo SecureStore (Storing Settings)
 - Navigation: Expo Router (3 screens)
 - Real-time client and serrverr library: Socket.io
-- 
+
+
+  ## Install / Getting Started
+
+1. Clone Repo
+
+```bash
+    git clone <repo-url>
+    cd ProductivityApp
+```
+
+2. Install Dev dependencies
+
+```bash
+    npm install
+```
+
+3. Run App
+
+- For Mobile (iOs):
+
+```bash
+    npx start ==ios
+```
+
+- For Web:
+
+```bash
+    npx start ==web
+```
