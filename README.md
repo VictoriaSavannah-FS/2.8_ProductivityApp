@@ -12,3 +12,14 @@ This is cross-platform personal productivity app built with Expo that works on b
 - Assign Tasks to Categories (Work, Personal, Health)
 - Real-time Chat
 - Reeal-Time Collaboration
+
+## Tech Stack
+
+- Framework: Expo (@latest version)
+- Language: TypeScript
+- Styling: NativeWind (@latest version: v4)
+- Database: SQLite (store Tasks)
+- SecureStore: Expo SecureStore (Storing Settings)
+- Navigation: Expo Router (3 screens)
+- Real-time client and serrverr library: Socket.io
+- 
