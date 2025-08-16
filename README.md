@@ -52,3 +52,6 @@ This is cross-platform personal productivity app built with Expo that works on b
 ```bash
     npx start ==web
 ```
+
+
+## How to run / begin Server
